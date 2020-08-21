@@ -1,0 +1,5 @@
+to run the installer file edit it and change [version] with the version of python installer do you have.
+for example python-3.8.0 . 
+
+this will automate the python installing procedure, if you want to do it manually simply double-click
+the python installer in its folder :) .
